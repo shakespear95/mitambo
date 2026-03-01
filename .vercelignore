@@ -1,0 +1,6 @@
+server/
+.git/
+.claude/
+supabase/
+node_modules/
+gam.txt
