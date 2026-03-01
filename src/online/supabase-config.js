@@ -6,8 +6,8 @@
  * Get them from Supabase Dashboard → Settings → API.
  */
 
-const SUPABASE_URL = 'https://YOUR_PROJECT.supabase.co';
-const SUPABASE_ANON_KEY = 'YOUR_ANON_KEY';
+const SUPABASE_URL = 'https://nnfeeudozvihdmmuyvzh.supabase.co';
+const SUPABASE_ANON_KEY = 'sb_publishable_kCQ_qc553MKlkECYOwc2BQ_kVm-9dIm';
 
 let client = null;
 
