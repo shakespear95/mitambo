@@ -16,7 +16,7 @@ export function getWebSocketUrl() {
 
   // Production: Railway backend
   if (location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') {
-    return 'wss://mitambo-ws-production.up.railway.app';
+    return 'wss://mitambo-production.up.railway.app';
   }
 
   // Local development
